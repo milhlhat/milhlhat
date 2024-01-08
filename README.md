@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software architecture
 - 🌱 I’m currently learning Software architecture and Leading team
 - 💞️ I’m looking to collaborate on Software development
-- 📫 Connect me: fb.com/milhlhat
+- 📫 Connect me: [Linkedin](https://www.linkedin.com/in/milhlhat/)
 
 <!---
 milhlhat/milhlhat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
